@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello, Git!
 This is a change.
+=======
+Hello, Git,git!
+>>>>>>> 4a66cdbd1211caa28e434d97c012a2de5872ce7e
+Another change.
